@@ -1,11 +1,11 @@
-class HelloJavaClass {
+class HelloPythonClass {
     printHelloWorld() {
         console.log("Hello World");
-        console.log("Hello from java class");
+        console.log("Hello from python class");
     }
 
-    printHelloperson(){
+    printHelloperson() {
         console.log("Lotfy and Hager and Rawan")
     }
-    
+
 }
